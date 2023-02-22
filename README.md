@@ -12,8 +12,12 @@ Which features you included
 
 ## References
 
+Brick Breaker
 
 ## Future Development
 
+None
 
 ## Created by
+
+Ronen Fisher
