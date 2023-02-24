@@ -16,6 +16,26 @@ Face, ball, and paddle sprites created by me using Piskel.com.
 
 Music created by me using MuseScore 4.
 
+Somethings I did to this game were:
+
+- Changing the colors
+- Squeeze and stretch
+- Animate elements when they are hit
+- give the ball (or eye) a comet trail
+- Shake the screen when something good happens
+- Shake the screen when an error occurs
+- Add sound effects
+- Add music
+- Animate the bricks' appearance
+- Add particles when an element is hit
+- Make the elements fall off the screen when they are hit
+- Make the elements rotate when they are hit
+- Add eyes (or an eye)
+- Make the eye follow the action
+- Add a smile
+- Add a background to the main screen
+- Add shaders
+
 ## References
 
 [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
