@@ -1,8 +1,8 @@
 # Project Name
 
-Context and date
+Context and date: This game was created February 23 2023, and was assigned as a project at Indiana University.
 
-Description
+Description: It's classic brick breaker, but you play as a monster who's bouncing his own left eye around! Ouch!
 
 To play
 
@@ -12,7 +12,9 @@ Move the paddle using the mouse. Release the ball (and trigger fever mode) using
 
 Built using Godot 3.5.1
 
-Face sprites created by the author at Piskel.com
+Face, ball, and paddle sprites created by me using Piskel.com.
+
+Music created by me using MuseScore 4.
 
 ## References
 
